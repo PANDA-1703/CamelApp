@@ -11,8 +11,8 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
 
-public class camelStart {
-    static Logger log = LoggerFactory.getLogger(camelStart.class);
+public class СamelStart {
+    static Logger log = LoggerFactory.getLogger(СamelStart.class);
     public static void main(String[] args) {
 
         final CamelContext camelContext = new DefaultCamelContext();
